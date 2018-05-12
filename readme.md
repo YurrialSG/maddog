@@ -1,1 +1,3 @@
-Este arquivo é importante para o projeto
+Leia este arquivo.
+
+Este arquivo é importante pro projeto.
